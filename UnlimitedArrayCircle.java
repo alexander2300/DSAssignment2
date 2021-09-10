@@ -1,6 +1,6 @@
 package DSAssignment2;
 
-public class UnlimitedArrayFast implements UnlimitedArray {
+public class UnlimitedArrayCircle implements UnlimitedArray {
     @Override
     public boolean isEmpty() {
         return false;
