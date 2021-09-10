@@ -1,3 +1,4 @@
+package DSAssignment2;
 
 //IMPORTANT: This is just skeleton code to be helpful, you will need to change the main program to call timeStack() on a multiple large numbers to gain insight into how your data structure's performance scales.
 

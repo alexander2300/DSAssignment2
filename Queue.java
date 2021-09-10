@@ -2,6 +2,7 @@
 //  Enqueue adds an item to the Queue
 //  Dequeue removes the least-recently added item from the Queue
 //FIFO = First in, First out
+package DSAssignment2;
 
 public class Queue{
     UnlimitedArray data;

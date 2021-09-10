@@ -2,6 +2,7 @@
 //  Push adds an item to the Stack
 //  Pop removes the most recently added item from the Stack
 //FILO = First in, Last out
+package DSAssignment2;
 
 public class Stack{
     UnlimitedArray data;
