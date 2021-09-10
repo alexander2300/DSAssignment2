@@ -1,6 +1,12 @@
 package DSAssignment2;
 
 public class UnlimitedArrayCircle implements UnlimitedArray {
+    int[] array;
+    UnlimitedArrayCircle() {
+        this.array = new int[4];
+    }
+
+
     @Override
     public boolean isEmpty() {
         return false;

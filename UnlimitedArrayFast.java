@@ -1,6 +1,11 @@
 package DSAssignment2;
 
 public class UnlimitedArrayFast implements UnlimitedArray {
+    int[] array;
+    UnlimitedArrayFast() {
+        this.array = new int[4];
+    }
+
     @Override
     public boolean isEmpty() {
         return false;
